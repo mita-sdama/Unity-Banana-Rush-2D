@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: ee8519f6177492247bbd595c0c252020
+timeCreated: 1524450350
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Jelly Donuts
+  fontNames:
+  - Jelly Donuts
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: c958e1ef7d8af6f4098fed65ff926c9b, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
